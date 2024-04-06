@@ -1,6 +1,17 @@
-# Nuxt 3 Minimal Starter
+# IPUT ONE Frontend
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Project Structure
+
+- `api/` - グローバルな API 通信ロジック (Data Access Layer)
+- `components/` - 共通コンポーネント (Presentation Layer)
+
+## 依存関係
+
+- AppoloClient
+
+## 参考
+
+- [[WP] REST API Developer Endpoint Reference](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css)
 
 ## Setup
 
